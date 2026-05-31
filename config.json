@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionrecrypt",
+        "uuid": 3942270,
+        "checksum": "1er8es"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
